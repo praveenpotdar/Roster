@@ -1,0 +1,11 @@
+Name,Availability Date,Availability Time,Email,Phone
+John Doe,2026-03-15,09:00-17:00,john.doe@example.com,+1-555-0101
+Jane Smith,2026-03-15,10:00-18:00,jane.smith@example.com,+1-555-0102
+Mike Johnson,2026-03-16,08:00-16:00,mike.j@example.com,+1-555-0103
+Sarah Williams,2026-03-16,11:00-19:00,sarah.w@example.com,+1-555-0104
+David Brown,2026-03-17,09:30-17:30,david.brown@example.com,+1-555-0105
+Emily Davis,2026-03-17,10:00-18:00,emily.d@example.com,+1-555-0106
+Robert Wilson,2026-03-18,08:00-16:00,robert.w@example.com,+1-555-0107
+Lisa Anderson,2026-03-18,09:00-17:00,lisa.a@example.com,+1-555-0108
+James Taylor,2026-03-19,10:00-18:00,james.t@example.com,+1-555-0109
+Maria Garcia,2026-03-19,11:00-19:00,maria.g@example.com,+1-555-0110
